@@ -1,5 +1,5 @@
 # GNNkin
-GNNkin: A Graph Neural Network-based Framework for Kinase Inhibitors Prediction
+A Graph Neural Network-based Multi-Grained Feature Aggregation Model for Kinase Inhibitors Prediction
 
 # Requirements
 * Tensorflow (tested on version 1.0.1 and version 1.2.0)
